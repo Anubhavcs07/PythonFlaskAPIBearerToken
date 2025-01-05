@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+*.env
+
+# Flask cache and logs
+*.log
+*.flaskenv
+
+# Database files
+*.db
+*.sqlite3
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# Pytest / Coverage
+htmlcov/
+.tox/
+.cache/
+.coverage
+*.cover
+*.py,cover
+.cache
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Migrations (if using Flask-Migrate)
+migrations/
+
+# OAuth credentials and keys
+*.pem
+*.key
+*.crt
+
+# Docker
+*.pid
+*.sock
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# JetBrains IDE logs
+*.idea/
+*.ipr
+*.iws
+.idea/
+logs/
+
+# Local deployment files
+*.local
+*.bak
+*.swp
+
+# Build / Distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pipenv and poetry
+Pipfile
+P
